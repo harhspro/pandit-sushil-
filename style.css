@@ -1,0 +1,86 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Times New Roman', Times, serif;
+
+}
+
+#top-btn{
+    background-color: black;
+    
+}
+#top-btn a{
+    color: white;
+text-decoration: none;
+}
+
+
+#logo img {
+    width: 80px;
+    height: 80px;
+    
+    }
+    .nav-item {
+        margin-left: 10px;
+    }
+    
+    .nav-item .nav-link {
+        color: white;
+        margin-left: 2px;
+        text-shadow: 0px 0px 1px black;
+        transition: 0.5s ease;
+    }
+    
+    .nav-item .nav-link:hover {
+        color: #ff0000;
+    }
+/* start first section for the top banner */
+#head1{
+    text-align: center;
+}
+
+#sarp {
+    width: 300px;
+    height: 350px;
+}
+#para1{
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+/* end first section for the top banner */
+
+/* start About  section  */
+.About{
+    margin-top: 20px;
+    
+    background-color: rgb(219, 223, 223);
+}
+#Aheard{
+    text-align: center;
+
+}
+#sarp2{
+    margin-top: 40px;
+    width: 320px;
+    height: 400px;
+}
+
+/* end About  section  */
+
+/* Start services section */
+
+.card-title{
+    text-align: center;
+color: #ff0000;
+}
+.card-text{
+    text-align: center;
+    font-size: 17px;
+
+}
+/* #cardbtn {
+    margin-left: 40px;
+} */
+/* end services section */
